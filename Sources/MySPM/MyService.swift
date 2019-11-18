@@ -8,7 +8,7 @@
 import Foundation
 
 public struct MyService {
-    static func printHelloWorld(){
+    public static func printHelloWorld(){
         print("Hello World")
     }
 }
